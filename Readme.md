@@ -1,14 +1,14 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Software Engineer Banner" width="100%">
+  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80" alt="Software Engineer Banner" width="100%">
 </p>
 
 <!-- Profile View Count -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Crypt1cOne&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Bharat Gupta  
 **Full Stack .NET Developer | 5+ Years of Experience**  
 
 📧 **Email:** your.email@example.com  
@@ -17,9 +17,17 @@
 
 ---
 
+## 🚀 About Me  
+I’m a passionate Full Stack .NET Developer with **5 years of experience** building enterprise-grade web applications and APIs.  
+I specialize in **.NET Core, ASP.NET, C#, SQL Server, Docker**, and **React**, with strong expertise in designing scalable solutions and setting up CI/CD pipelines.
+
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*
+
+---
+
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Crypt1cOne" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://medium.com/@your-medium" target="_blank">
@@ -46,22 +54,13 @@
 
 ## 📊 GitHub Stats & Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Crypt1cOne&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypt1cOne&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
 ## 📈 Tech Usage in My Repositories  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-username&theme=tokyonight" alt="WakaTime Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt1cOne&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
-
----
-
-## 🚀 About Me  
-I’m a passionate Full Stack .NET Developer with **5 years of experience** building enterprise-grade web applications and APIs. I specialize in **.NET Core, ASP.NET, C#, SQL Server, Docker**, and **React**, with strong expertise in designing scalable solutions and setting up CI/CD pipelines.
-
----
-
-💡 *“Code is like humor. When you have to explain it, it’s bad.”*
