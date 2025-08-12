@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Crypt1cOne/Crypt1cOne/main/banner.png" alt="Software Engineer Banner" width="100%" height="30%">
+  <img src="https://raw.githubusercontent.com/Crypt1cOne/Crypt1cOne/main/banner.png" alt="Software Engineer Banner" width="100%" height="100px">
 </p>
 
 <!-- Profile View Count -->
