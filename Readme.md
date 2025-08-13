@@ -44,6 +44,7 @@ I specialize in **.NET Core, ASP.NET, C#, SQL Server, Docker**, and **React**, w
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/JS-ffff00?style=for-the-badge&logo=javascript&logoColor=white" alt="JS" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -62,5 +63,5 @@ I specialize in **.NET Core, ASP.NET, C#, SQL Server, Docker**, and **React**, w
 
 ## 📈 GitHub Streak 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt1cOne" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt1cOne&" alt="GitHub Streak" height="180" />
 </p>
