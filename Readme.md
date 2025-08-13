@@ -11,7 +11,7 @@
 # 👋 Hi, I'm Bharat Gupta  
 **Full Stack .NET Developer | 5+ Years of Experience**  
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** xmanwolf1234@gmail.com  
 💼 **Role:** Full Stack Developer  
 📆 **Experience:** 5 Years  
 
@@ -52,15 +52,15 @@ I specialize in **.NET Core, ASP.NET, C#, SQL Server, Docker**, and **React**, w
 
 ---
 
-## 📊 GitHub Stats & Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crypt1cOne&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypt1cOne&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+## 📊 Most Used Languages  
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Crypt1cOne&show_icons=true&locale=en&layout=compact" alt="bharatgupta" />
 </p>
+
 
 ---
 
-## 📈 Tech Usage in My Repositories  
+## 📈 GitHub Streak 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt1cOne&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crypt1cOne" alt="GitHub Streak" height="180" />
 </p>
